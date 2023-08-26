@@ -28,3 +28,7 @@ docker run --rm golang
 </br>
 
 In the end you should have the following result: `Full Cycle Rocks!!`
+
+<br>
+
+If you just want to run the ready-made image, visit my docker hub repository -> [silverio24tenor/go-challenge](https://hub.docker.com/repository/docker/silverio24tenor/go-challenge/general)
